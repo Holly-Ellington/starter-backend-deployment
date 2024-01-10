@@ -1,6 +1,6 @@
 # Starter: Backend Deployment
 
-This is starter code for the Back End Deployment module. Follow the instructions below to get everything up and running.
+Follow the instructions below to get everything up and running.
 
 This repo was adapted from [this repository](https://github.com/Thinkful-Ed/starter-back-end-deployment) to work with Vercel's most recent updates.
 
